@@ -7,13 +7,6 @@
 
 - 👯 Я ищу возможность для сотрудничества как программист фрилансер (С++)
 
-### 📊 Моя активность на GitHub:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-  <img height="180em" src="https://github-readme-stats.vercel.app" />
-</p>
-
 ### 📫 Как со мной связаться:
 [![Telephone](https://img.shields.io)](+37377762643; +37377962643)  
 [![[Telegram](https://img.shields.io)](https://t.me/serhii_heckel_2025)](serhii_heckel_2025)  
