@@ -17,11 +17,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" title="GCC" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg" width="40" title="Clang" />  
 </p>
-*Есть опыт низкоуровневого программирования на **MASM**.*
-
-
-- 👯 Я ищу возможность для сотрудничества как программист фрилансер (С++).
-
+*   **Компиляторы:** Опыт кросс-платформенной сборки с использованием **GCC**, **Clang** и **Emscripten** (WebAssembly).
+*   **Сборка:** Автоматизация проектов через **CMake**.
+*   **Низкоуровневая разработка:** Опыт программирования на **MASM**.
+---
+### 👯 Я ищу возможность для сотрудничества как программист фрилансер (С++).
+---
 ### 📫 Как со мной связаться:
 <p align="left">
   <a href="https://t.me" title="Написать в Telegram">  
