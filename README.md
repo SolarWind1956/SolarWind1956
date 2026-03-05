@@ -4,12 +4,20 @@
 - 🚀 Сейчас я работаю над проектом автоматизации мониторинга загрязнения воды в морских акваториях: **opencv-wasm-emscripten**. В этом мне помогают ChatGPT и Gemini.
 - 🌱 Изучаю: **Основы компьютерного зрения. Библиотека OpenCV**.
 
+
 <p align="left">
+  <!-- Основные языки -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
+  <!-- Инструменты сборки и IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" title="CMake" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" title="Visual Studio" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" title="GCC" />
 </p>
+
+
 
 - 👯 Я ищу возможность для сотрудничества как программист фрилансер (С++).
 
