@@ -3,7 +3,13 @@
 ### 👨‍💻 Обо мне:
 - 🚀 Сейчас я работаю над проектом автоматизации мониторинга загрязнения воды в морских акваториях: **opencv-wasm-emscripten**. В этом мне помогают ChatGPT и Gemini.
 - 🌱 Изучаю: **Основы компьютерного зрения. Библиотека OpenCV**.
-- 💬 Спрашивайте меня о: **C++, C#, Python, MASM**.
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/devicon/icons/c/c-original.svg" width="40" title="C">&nbsp;
+  <img src="https://cdn.jsdelivr.net/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">&nbsp;
+  <img src="https://cdn.jsdelivr.net/devicon/icons/csharp/csharp-original.svg" width="40" title="C#">&nbsp;
+  <img src="https://cdn.jsdelivr.net/devicon/icons/python/python-original.svg" width="40" title="Python">
+</p>
 
 - 👯 Я ищу возможность для сотрудничества как программист фрилансер (С++).
 
