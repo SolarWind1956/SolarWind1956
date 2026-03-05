@@ -4,7 +4,7 @@
 - 🚀 Сейчас я работаю над проектом автоматизации мониторинга загрязнения воды в морских акваториях: **opencv-wasm-emscripten**. В этом мне помогают ChatGPT и Gemini.
 - 🌱 Изучаю: **Основы компьютерного зрения. Библиотека OpenCV**.
 
-
+### 🛠️ Технологический стек:
 <p align="left">
   <!-- Основные языки -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C">&nbsp;
@@ -17,7 +17,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" title="GCC" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg" width="40" title="Clang" />  
 </p>
-
+*Есть опыт низкоуровневого программирования на **MASM**.*
 
 
 - 👯 Я ищу возможность для сотрудничества как программист фрилансер (С++).
