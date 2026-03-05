@@ -18,7 +18,7 @@
   <a href="mailto:solar_wind1956@yahoo.com" title="Отправить Email (solar_wind1956@yahoo.com)">  
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="center" alt="Email">  
   </a>  
-  <a href="tel:+37377762643" title="Позвонить: +373 777 62643">  
+  <a href="tel:+37377762643" title="Позвонить: (+373 777 62643)">  
     <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center" alt="Phone">  
   </a>
 </p>
