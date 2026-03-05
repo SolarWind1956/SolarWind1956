@@ -18,6 +18,7 @@
   <a href="mailto:solar_wind1956@yahoo.com" title="Отправить Email: solar_wind1956@yahoo.com">  
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="center" alt="Email">  
   </a>  
+  <br>/br>
   <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center" alt="Phone">  
   <a href="tel:+37377762643"><strong>"Позвонить по номеру: +373 777 62643"</strong></a>
 </p>
