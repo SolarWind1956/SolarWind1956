@@ -1,3 +1,27 @@
+# Привет, я Сергей Эдгарович Геккель (Sergej Edgar Heckel)! 👋
+
+### 👨‍💻 Обо мне:
+- 🚀 Сейчас я работаю над проектом автоматизации мониторинга загрязнения воды в морских акваториях: **[Название проекта]**
+- 🌱 Изучаю: **[Что учите сейчас, например, Go или Kubernetes]**
+- 💬 Спрашивайте меня о: **[Ваш основной стек, например, Python или JS]**
+
+### 🛠 Стек технологий:
+<p align="left">
+  <img src="https://skillicons.dev" />
+</p>
+
+---
+
+### 📊 Моя активность на GitHub:
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+  <img height="180em" src="https://github-readme-stats.vercel.app" />
+</p>
+
+### 📫 Как со мной связаться:
+[![Telegram](https://img.shields.io)](https://t.me)
+[![LinkedIn](https://img.shields.io)](https://linkedin.com)
 ## Hi there 👋
 
 <!--
