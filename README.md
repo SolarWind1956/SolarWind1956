@@ -16,7 +16,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center alt="LinkedIn">  
   </a>  
   <a href="mailto:solar_wind1956@yahoo.com">  
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200" width="30" align="center" alt="Email>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="center" alt="Email>  
   </a>  
   <a href="tel:+37377762643; +37377962643">  
     <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center" alt="Phone>  
