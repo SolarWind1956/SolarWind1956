@@ -5,10 +5,10 @@
 - 🌱 Изучаю: **Основы компьютерного зрения. Библиотека OpenCV**.
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/devicon/icons/c/c-original.svg" width="40" title="C">&nbsp;
-  <img src="https://cdn.jsdelivr.net/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">&nbsp;
-  <img src="https://cdn.jsdelivr.net/devicon/icons/csharp/csharp-original.svg" width="40" title="C#">&nbsp;
-  <img src="https://cdn.jsdelivr.net/devicon/icons/python/python-original.svg" width="40" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicon/icons/c/c-original.svg" width="40" title="C">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/icons/csharp/csharp-original.svg" width="40" title="C#">&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicon/icons/python/python-original.svg" width="40" title="Python">
 </p>
 
 - 👯 Я ищу возможность для сотрудничества как программист фрилансер (С++).
