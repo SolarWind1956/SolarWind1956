@@ -9,7 +9,7 @@
 
 ### 📫 Как со мной связаться:
 [![Telephone](https://img.shields.io)](+37377762643; +37377962643)  
-[<img src="https://raw.githubusercontent.com" width="25" align="center"> **Написать в Telegram**](https://t.me)  
+[<img src="https://raw.githubusercontent.com" width="25" align="center"> **Написать в Telegram**]([https://t.me](https://t.me/serhii_heckel_2025))  
 [![[LinkedIn](https://img.shields.io)](https://linkedin.com)](https://www.linkedin.com/in/sergej-heckel-5345275a/)
 
 <!--
