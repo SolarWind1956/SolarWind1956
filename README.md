@@ -9,16 +9,20 @@
 
 ### 📫 Как со мной связаться:
 <p align="left">
-  <a href="https://t.me/serhii_heckel_2025" title="Написать в Telegram: serhii_heckel_2025">  
+  <a href="https://t.me" title="Написать в Telegram">  
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" align="center" alt="Telegram">  
-  </a>  
-  <a href="https://www.linkedin.com/in/sergej-heckel-5345275a/" title="Профиль LinkedIn: www.linkedin.com/in/sergej-heckel-5345275a/">  
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com" title="Профиль LinkedIn">  
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center" alt="LinkedIn">  
-  </a>  
-  <a href="mailto:solar_wind1956@yahoo.com" title="Отправить Email: solar_wind1956@yahoo.com">  
+  </a>&nbsp;&nbsp;
+  <a href="mailto:solar_wind1956@yahoo.com" title="Отправить Email">  
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" align="center" alt="Email">  
-  </a>  
-  <br></br>
+  </a>
+</p>
+
+<p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center" alt="Phone">  
-  <a href="tel:+37377762643"><strong>"Позвонить по номеру: +373 777 62643 или по номеру +373 779 62643"</strong></a>
+  <strong>Позвонить по номеру:</strong> 
+  <a href="tel:+37377762643">+373 777 62643</a> или 
+  <a href="tel:+37377962643">+373 779 62643</a>
 </p>
