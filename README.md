@@ -9,16 +9,16 @@
 
 ### 📫 Как со мной связаться:
 <p align="left">
-  <a href="https://t.me">
-    <[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" align="center"> **Написать в Telegram**](https://t.me/serhii_heckel_2025)  
-  </a>
-  <a href="https://www.linkedin.com">
-    [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center"> **Смотреть профиль в LinkedIn**](https://www.linkedin.com/in/sergej-heckel-5345275a/)  
-  </a>
-  <a href="mailto:ВАША_ПОЧТА@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200" width="30" align="center"> **Email**](solar_wind1956@yahoo.com)  
-  </a>
-  <a href="tel:+380000000000">
-    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center"> **Номера моих телефонов**](+37377762643; +37377962643)  
+  <a href="https://t.me/serhii_heckel_2025">  
+    <[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" align="center">  
+  </a>  
+  <a href="https://www.linkedin.com/in/sergej-heckel-5345275a/">  
+    [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center">  
+  </a>  
+  <a href="mailto:solar_wind1956@yahoo.com">  
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200" width="30" align="center"> **Email**]   
+  </a>  
+  <a href="tel:+37377762643; +37377962643">  
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center">  
   </a>
 </p>
