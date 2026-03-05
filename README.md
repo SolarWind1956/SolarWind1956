@@ -10,15 +10,15 @@
 ### 📫 Как со мной связаться:
 <p align="left">
   <a href="https://t.me/serhii_heckel_2025">  
-    <[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" align="center">  
+    <[<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" align="center alt="Telegram">  
   </a>  
   <a href="https://www.linkedin.com/in/sergej-heckel-5345275a/">  
-    [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center">  
+    [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" align="center alt="LinkedIn">  
   </a>  
   <a href="mailto:solar_wind1956@yahoo.com">  
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200" width="30" align="center"> **Email**]   
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200" width="30" align="center" alt="Email>
   </a>  
   <a href="tel:+37377762643; +37377962643">  
-    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center">  
+    <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center" alt="Phone>  
   </a>
 </p>
