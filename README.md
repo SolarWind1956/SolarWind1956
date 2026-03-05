@@ -20,9 +20,10 @@
 </p>
 
 ### 📫 Как со мной связаться:
-[![Telephone](+37377762643; +37377962643)
-[![Telegram](@sergey_edgar_heckel (Sergej Heckel))
+[![Telephone](+37377762643; +37377962643)  
+[![Telegram](@sergey_edgar_heckel (Sergej Heckel))  
 [![[LinkedIn](https://img.shields.io)](https://linkedin.com)](https://www.linkedin.com/in/sergej-heckel-5345275a/)
+
 ## Hi there 👋
 
 <!--
