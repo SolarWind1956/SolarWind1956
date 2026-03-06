@@ -1,33 +1,33 @@
-# Привет, я Сергей Эдгарович Геккель (Sergej Edgar Heckel)! 👋
+# Hi, I'm Sergej Edgar Heckel! 👋
 
 ### 👨‍💻 Обо мне:
-- 🚀 Сейчас я работаю над проектом автоматизации мониторинга загрязнения воды в морских акваториях: **opencv-wasm-emscripten**. В разработке используются современные AI-инструменты (ChatGPT и Gemini).
+- 🚀 I'm currently working on a project to automate water pollution monitoring in marine areas: **opencv-wasm-emscripten**. The project utilizes modern AI tools (ChatGPT and Gemini).
   
-- 🌱 **Изучаю:** Основы компьютерного зрения и библиотеку **OpenCV**.
+- 🌱 **Studying:** Computer vision basics and the **OpenCV** library.
 
-### 🛠️ Технологический стек:
+### 🛠️ Tech stack:
 <p align="left">
-  <!-- Основные языки -->
+  <!-- Main programming languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
-  <!-- Инструменты сборки и IDE -->
+  <!-- Build tools and IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" width="40" title="CMake" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="40" title="Visual Studio" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="40" title="GCC" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/llvm/llvm-original.svg" width="40" title="Clang" />  
 </p>
 
-* **Компиляторы:** Опыт кросс-платформенной сборки с использованием **GCC**, **Clang** и **Emscripten** (WebAssembly).  
+* **Compilers:** Cross-platform build experience using **GCC**, **Clang** and **Emscripten** (WebAssembly).  
 
-* **Сборка:** Автоматизация проектов через **CMake**.  
+* **Build:** Project automation via **CMake**. 
 
-* **Низкоуровневая разработка:** Опыт программирования на **MASM**.  
+* **Low-level development:** Experience programming in **MASM**. 
 
-### 👯 Сотрудничество: Ищу возможности для работы в качестве **C++ фриланс-разработчика**. Готов к сложным техническим задачам.
+### 👯 Collaboration: Seeking opportunities to work as a freelance C++ developer. Ready for technical challenges.
 
-### 📫 Как со мной связаться:
+### 📫 How to contact me:
 <p align="left">
   <a href="https://t.me" title="Написать в Telegram">  
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="30" align="center" alt="Telegram">  
@@ -42,5 +42,5 @@
 
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="30" align="center" alt="Phone">  
-  <a href="tel:+37377762643"><strong>"Позвонить по номеру: +373 777 62643 или по номеру +373 779 62643"</strong></a>
+  <a href="tel:+37377762643"><strong>"Call: +373 777 62643 or +373 779 62643"</strong></a>
 </p>
