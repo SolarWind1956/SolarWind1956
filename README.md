@@ -5,7 +5,7 @@
   
 - 🌱 **Studying:** Computer vision basics and the **OpenCV** library.
 
-### 🛠️ Tech stack:
+### 🛠️ Technical stack:
 <p align="left">
   <!-- Main programming languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C">&nbsp;
