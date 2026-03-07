@@ -1,6 +1,6 @@
 # Hi, I'm Sergej Edgar Heckel! 👋
 
-### 👨‍💻 Обо мне:
+### 👨‍💻 About me:
 - 🚀 I'm currently working on a project to automate water pollution monitoring in marine areas: **opencv-wasm-emscripten**. The project utilizes modern AI tools (ChatGPT and Gemini).
   
 - 🌱 **Studying:** Computer vision basics and the **OpenCV** library.
