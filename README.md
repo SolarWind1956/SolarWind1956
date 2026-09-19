@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me:
 
-- 🎯 I'm an experienced systems architect and R&D engineer with many years of experience in real-time systems, industrial automation, and low-level software design.
+- 🎯 I'm an experienced **systems architect and R&D engineer** with many years of experience in real-time systems, industrial automation, and low-level software design.
 
 - 🚀 I'm currently working on a project to automate water pollution monitoring in marine areas: **opencv-wasm-emscripten**. The project utilizes modern AI tools (ChatGPT and Gemini).
   
